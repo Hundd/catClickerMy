@@ -1,0 +1,7 @@
+img{
+	max-width: 200px;
+}
+#listOfCats li:hover{
+	color: green;
+	text-decoration: underline;
+}
